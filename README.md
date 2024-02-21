@@ -50,11 +50,12 @@ LearnNet Liberia is a transformative program that aims to bridge the digital div
 The project will be carried out over [X months], with an expected budget of [X amount] for content curation, Kiwix server deployment, user training, devices and renewable energy, and technical support. 
 
 9.	Contact Information 
-For questions or collaborative opportunities, please contact: 
+    For questions or collaborative opportunities, please contact: 
 
-Isaac Fred
-Fred.isaac2012@gmail.com 
-+231770146730 
+    Isaac Fred
+    Fred.isaac2012@gmail.com 
+    +231770146730
+  	
 This project proposal presents LearnNet Liberia's aims, methods, estimated impact, and sustainability strategy while taking into account the Hackathon requirements. The initiative intends to alleviate the digital divide by utilizing Kiwix to enable offline access to educational content, empowering Liberians with access to knowledge and learning opportunities. 
 
 
